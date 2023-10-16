@@ -32,3 +32,5 @@ retro_board-*.tar
 npm-debug.log
 /assets/node_modules/
 
+# local config files
+config/*.local.exs
